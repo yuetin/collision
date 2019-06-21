@@ -1,0 +1,15 @@
+.vscode
+
+*.swp
+*.pyc
+*.pcd
+*weights
+*.h5
+
+CATKIN_IGNORE
+.vscode/settings.json
+train/src/__pycache__/env.cpython-35.pyc
+train/logs/
+train/SAC_v7_noroi_v5
+train/SAC_v7_noroi_v6
+
